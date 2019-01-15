@@ -1,5 +1,6 @@
 # Schedsim
 
+# About 
 Project corresponding to the subject Operational Systems (SO) of the Complutense University of Madrid that performs the simulation of the Process Planner in a UNIX system.
 
 ![image](https://github.com/manumonforte/Schedsim/issues/1#issue-363161164)
